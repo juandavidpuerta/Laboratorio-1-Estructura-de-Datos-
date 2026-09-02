@@ -72,7 +72,7 @@ for i in range(filas):
 `leer\_matriz.py` tampoco carga el archivo: salta con `seek()` al byte exacto
 que necesita y lee solo eso.
 
-!\[RAM constante durante la escritura](capturas/ram\_administrador.png)
+
 
 ### 3.2 Escritura lenta a disco
 
