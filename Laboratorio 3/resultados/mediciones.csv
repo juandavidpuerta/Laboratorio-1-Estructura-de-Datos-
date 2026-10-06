@@ -1,0 +1,301 @@
+estructura,n,tipo,repeticion,us_por_busqueda
+Lista Ligada,1000,existente,0,11.818333296105266
+Árbol Binario (BST),1000,existente,0,0.6526665917287271
+Árbol B+,1000,existente,0,1.1766667012125254
+Lista Ligada,1000,no_existente,0,23.28100032173097
+Árbol Binario (BST),1000,no_existente,0,0.7263334312786659
+Árbol B+,1000,no_existente,0,0.9410001803189516
+Lista Ligada,1000,existente,1,12.286666703100005
+Árbol Binario (BST),1000,existente,1,0.6753334309905767
+Árbol B+,1000,existente,1,1.0790000669658184
+Lista Ligada,1000,no_existente,1,22.24366646260023
+Árbol Binario (BST),1000,no_existente,1,0.6153333621720473
+Árbol B+,1000,no_existente,1,1.0793334028373163
+Lista Ligada,1000,existente,2,10.807666694745421
+Árbol Binario (BST),1000,existente,2,0.7616666456063589
+Árbol B+,1000,existente,2,1.2303333884725969
+Lista Ligada,1000,no_existente,2,23.310666826243203
+Árbol Binario (BST),1000,no_existente,2,0.5636666901409626
+Árbol B+,1000,no_existente,2,1.0356667917221785
+Lista Ligada,1000,existente,3,11.496333172544837
+Árbol Binario (BST),1000,existente,3,2.025333233177662
+Árbol B+,1000,existente,3,1.2870000985761483
+Lista Ligada,1000,no_existente,3,23.728666516641777
+Árbol Binario (BST),1000,no_existente,3,0.627333065494895
+Árbol B+,1000,no_existente,3,0.9993331817289194
+Lista Ligada,1000,existente,4,11.530999715129536
+Árbol Binario (BST),1000,existente,4,0.703999927888314
+Árbol B+,1000,existente,4,1.1559998771796625
+Lista Ligada,1000,no_existente,4,22.363666600237288
+Árbol Binario (BST),1000,no_existente,4,0.6009999196976423
+Árbol B+,1000,no_existente,4,1.1556665413081646
+Lista Ligada,1000,existente,5,11.273666750639677
+Árbol Binario (BST),1000,existente,5,0.7423335531105597
+Árbol B+,1000,existente,5,1.153000242387255
+Lista Ligada,1000,no_existente,5,23.212999803945422
+Árbol Binario (BST),1000,no_existente,5,0.6123333393285673
+Árbol B+,1000,no_existente,5,1.0566669516265392
+Lista Ligada,1000,existente,6,11.197333612168828
+Árbol Binario (BST),1000,existente,6,0.7109999811897676
+Árbol B+,1000,existente,6,1.5083331769953172
+Lista Ligada,1000,no_existente,6,21.817333375414215
+Árbol Binario (BST),1000,no_existente,6,0.7579999510198832
+Árbol B+,1000,no_existente,6,1.1046665410200756
+Lista Ligada,1000,existente,7,12.520666544636091
+Árbol Binario (BST),1000,existente,7,0.6220000796020031
+Árbol B+,1000,existente,7,1.1569998847941558
+Lista Ligada,1000,no_existente,7,25.35599982365966
+Árbol Binario (BST),1000,no_existente,7,0.5943332022676866
+Árbol B+,1000,no_existente,7,1.1819996871054173
+Lista Ligada,1000,existente,8,11.241000223283967
+Árbol Binario (BST),1000,existente,8,0.7140000040332476
+Árbol B+,1000,existente,8,1.2816667246321836
+Lista Ligada,1000,no_existente,8,22.99533342011273
+Árbol Binario (BST),1000,no_existente,8,0.5713334151854117
+Árbol B+,1000,no_existente,8,1.0413335015376408
+Lista Ligada,1000,existente,9,11.79566684489449
+Árbol Binario (BST),1000,existente,9,0.628999744852384
+Árbol B+,1000,existente,9,1.1016665181765954
+Lista Ligada,1000,no_existente,9,22.196000209078193
+Árbol Binario (BST),1000,no_existente,9,0.7480002629260223
+Árbol B+,1000,no_existente,9,1.137333456426859
+Lista Ligada,5000,existente,0,61.76633333476881
+Árbol Binario (BST),5000,existente,0,1.5116669237613678
+Árbol B+,5000,existente,0,4.181333351880312
+Lista Ligada,5000,no_existente,0,121.32999991687635
+Árbol Binario (BST),5000,no_existente,0,1.195333121965329
+Árbol B+,5000,no_existente,0,2.3166664565602937
+Lista Ligada,5000,existente,1,55.94199988991022
+Árbol Binario (BST),5000,existente,1,1.137000120555361
+Árbol B+,5000,existente,1,1.838000025600195
+Lista Ligada,5000,no_existente,1,111.24633330230911
+Árbol Binario (BST),5000,no_existente,1,1.137333456426859
+Árbol B+,5000,no_existente,1,1.8936667280892532
+Lista Ligada,5000,existente,2,57.261333179970585
+Árbol Binario (BST),5000,existente,2,1.268333289772272
+Árbol B+,5000,existente,2,3.1376664992421865
+Lista Ligada,5000,no_existente,2,112.9239999378721
+Árbol Binario (BST),5000,no_existente,2,1.0889997550596793
+Árbol B+,5000,no_existente,2,2.175333211198449
+Lista Ligada,5000,existente,3,59.05366657922666
+Árbol Binario (BST),5000,existente,3,2.743333267668883
+Árbol B+,5000,existente,3,2.674333518370986
+Lista Ligada,5000,no_existente,3,119.72000007517636
+Árbol Binario (BST),5000,no_existente,3,1.3830000534653664
+Árbol B+,5000,no_existente,3,2.1680002100765705
+Lista Ligada,5000,existente,4,56.16633337922394
+Árbol Binario (BST),5000,existente,4,1.0306663655986388
+Árbol B+,5000,existente,4,2.2690002030382552
+Lista Ligada,5000,no_existente,4,118.58666664920747
+Árbol Binario (BST),5000,no_existente,4,1.3533331609020631
+Árbol B+,5000,no_existente,4,3.26300001082321
+Lista Ligada,5000,existente,5,56.271666738515094
+Árbol Binario (BST),5000,existente,5,1.4060002285987139
+Árbol B+,5000,existente,5,2.053000110511978
+Lista Ligada,5000,no_existente,5,120.98633334971964
+Árbol Binario (BST),5000,no_existente,5,1.4026664818326633
+Árbol B+,5000,no_existente,5,2.1443333632002277
+Lista Ligada,5000,existente,6,57.32733329447607
+Árbol Binario (BST),5000,existente,6,1.111666982372602
+Árbol B+,5000,existente,6,3.4373331194122634
+Lista Ligada,5000,no_existente,6,128.5386667586863
+Árbol Binario (BST),5000,no_existente,6,1.9333333087464173
+Árbol B+,5000,no_existente,6,2.375999853635828
+Lista Ligada,5000,existente,7,66.15766673348844
+Árbol Binario (BST),5000,existente,7,1.0569998994469643
+Árbol B+,5000,existente,7,2.51766643486917
+Lista Ligada,5000,no_existente,7,137.31399977890152
+Árbol Binario (BST),5000,no_existente,7,1.5826666882882516
+Árbol B+,5000,no_existente,7,2.244000012675921
+Lista Ligada,5000,existente,8,57.75766680017114
+Árbol Binario (BST),5000,existente,8,1.5696665892998378
+Árbol B+,5000,existente,8,3.001999963695804
+Lista Ligada,5000,no_existente,8,126.04833347722888
+Árbol Binario (BST),5000,no_existente,8,1.3943334730962913
+Árbol B+,5000,no_existente,8,1.9030001324911914
+Lista Ligada,5000,existente,9,65.26933362086613
+Árbol Binario (BST),5000,existente,9,1.1476668684432905
+Árbol B+,5000,existente,9,2.1270002859334154
+Lista Ligada,5000,no_existente,9,132.05000005352
+Árbol Binario (BST),5000,no_existente,9,1.313333244373401
+Árbol B+,5000,no_existente,9,2.947666604692737
+Lista Ligada,10000,existente,0,116.82666644143562
+Árbol Binario (BST),10000,existente,0,1.3816667099793751
+Árbol B+,10000,existente,0,2.9140000697225332
+Lista Ligada,10000,no_existente,0,239.71266656493148
+Árbol Binario (BST),10000,no_existente,0,1.9806666144480307
+Árbol B+,10000,no_existente,0,2.870000122735898
+Lista Ligada,10000,existente,1,117.16499963464837
+Árbol Binario (BST),10000,existente,1,2.653666694338123
+Árbol B+,10000,existente,1,3.5033332339177528
+Lista Ligada,10000,no_existente,1,244.50733326375484
+Árbol Binario (BST),10000,no_existente,1,1.4243337015310922
+Árbol B+,10000,no_existente,1,3.4606666304171085
+Lista Ligada,10000,existente,2,128.89433341721693
+Árbol Binario (BST),10000,existente,2,3.290333552286029
+Árbol B+,10000,existente,2,2.991666551679373
+Lista Ligada,10000,no_existente,2,234.18699973262846
+Árbol Binario (BST),10000,no_existente,2,1.5946663916110992
+Árbol B+,10000,no_existente,2,3.7763329843680067
+Lista Ligada,10000,existente,3,130.21966675296426
+Árbol Binario (BST),10000,existente,3,2.3693335242569447
+Árbol B+,10000,existente,3,2.8383336029946804
+Lista Ligada,10000,no_existente,3,232.56499979955456
+Árbol Binario (BST),10000,no_existente,3,1.665000260497133
+Árbol B+,10000,no_existente,3,2.4669997704525786
+Lista Ligada,10000,existente,4,117.87533333214621
+Árbol Binario (BST),10000,existente,4,1.3626665653040013
+Árbol B+,10000,existente,4,3.2286668041100106
+Lista Ligada,10000,no_existente,4,250.65633351914582
+Árbol Binario (BST),10000,no_existente,4,1.4296666874239843
+Árbol B+,10000,no_existente,4,2.6449999616791806
+Lista Ligada,10000,existente,5,141.24566650328535
+Árbol Binario (BST),10000,existente,5,1.4960001378009717
+Árbol B+,10000,existente,5,4.441333391393225
+Lista Ligada,10000,no_existente,5,229.23300003943342
+Árbol Binario (BST),10000,no_existente,5,1.533666703229149
+Árbol B+,10000,no_existente,5,2.648999992137154
+Lista Ligada,10000,existente,6,125.33633348842463
+Árbol Binario (BST),10000,existente,6,1.538999689122041
+Árbol B+,10000,existente,6,4.629999942456682
+Lista Ligada,10000,no_existente,6,239.90700021386147
+Árbol Binario (BST),10000,no_existente,6,1.276333350688219
+Árbol B+,10000,no_existente,6,2.5600000905493894
+Lista Ligada,10000,existente,7,133.30666658778986
+Árbol Binario (BST),10000,existente,7,1.4259999928375084
+Árbol B+,10000,existente,7,3.152666613459587
+Lista Ligada,10000,no_existente,7,229.63700001128018
+Árbol Binario (BST),10000,no_existente,7,2.2876666237910586
+Árbol B+,10000,no_existente,7,3.5543336222569146
+Lista Ligada,10000,existente,8,133.50833323784173
+Árbol Binario (BST),10000,existente,8,2.0833332867672048
+Árbol B+,10000,existente,8,4.4406667196502285
+Lista Ligada,10000,no_existente,8,236.7990002191315
+Árbol Binario (BST),10000,no_existente,8,1.957333491494258
+Árbol B+,10000,no_existente,8,3.4126666529724994
+Lista Ligada,10000,existente,9,123.70500015094878
+Árbol Binario (BST),10000,existente,9,1.4729999626676242
+Árbol B+,10000,existente,9,3.0369998421519995
+Lista Ligada,10000,no_existente,9,248.5389999734859
+Árbol Binario (BST),10000,no_existente,9,1.4393330396463473
+Árbol B+,10000,no_existente,9,2.831333161642154
+Lista Ligada,50000,existente,0,728.8419998561342
+Árbol Binario (BST),50000,existente,0,1.892666332423687
+Árbol B+,50000,existente,0,4.207999833549063
+Lista Ligada,50000,no_existente,0,1498.7793331965804
+Árbol Binario (BST),50000,no_existente,0,2.6463333051651716
+Árbol B+,50000,no_existente,0,3.782666753977537
+Lista Ligada,50000,existente,1,663.848666784664
+Árbol Binario (BST),50000,existente,1,1.9506667740643022
+Árbol B+,50000,existente,1,7.952000014483929
+Lista Ligada,50000,no_existente,1,1486.9123332512877
+Árbol Binario (BST),50000,no_existente,1,2.132333271826307
+Árbol B+,50000,no_existente,1,4.174333298578858
+Lista Ligada,50000,existente,2,772.692666699489
+Árbol Binario (BST),50000,existente,2,1.954666804522276
+Árbol B+,50000,existente,2,4.826999890307586
+Lista Ligada,50000,no_existente,2,1787.7253335124503
+Árbol Binario (BST),50000,no_existente,2,1.9603335143377383
+Árbol B+,50000,no_existente,2,4.097000152493517
+Lista Ligada,50000,existente,3,798.5163332584003
+Árbol Binario (BST),50000,existente,3,3.2093333235631385
+Árbol B+,50000,existente,3,4.671333202471335
+Lista Ligada,50000,no_existente,3,1696.503999798248
+Árbol Binario (BST),50000,no_existente,3,2.0356666451940932
+Árbol B+,50000,no_existente,3,4.659333111097416
+Lista Ligada,50000,existente,4,858.7153333549699
+Árbol Binario (BST),50000,existente,4,2.2143331201126175
+Árbol B+,50000,existente,4,4.897666707014044
+Lista Ligada,50000,no_existente,4,1779.9769997751962
+Árbol Binario (BST),50000,no_existente,4,2.426999853923917
+Árbol B+,50000,no_existente,4,3.971333305040995
+Lista Ligada,50000,existente,5,825.7876666417966
+Árbol Binario (BST),50000,existente,5,2.359666395932436
+Árbol B+,50000,existente,5,5.213000113144517
+Lista Ligada,50000,no_existente,5,1786.9480000808835
+Árbol Binario (BST),50000,no_existente,5,2.3799998840938015
+Árbol B+,50000,no_existente,5,4.001000197604299
+Lista Ligada,50000,existente,6,764.1793333459646
+Árbol Binario (BST),50000,existente,6,2.221666509285569
+Árbol B+,50000,existente,6,4.4273332847903175
+Lista Ligada,50000,no_existente,6,3327.4316663543386
+Árbol Binario (BST),50000,no_existente,6,4.597000079229474
+Árbol B+,50000,no_existente,6,6.8846667030205335
+Lista Ligada,50000,existente,7,1675.6170002433162
+Árbol Binario (BST),50000,existente,7,3.0853331554681063
+Árbol B+,50000,existente,7,7.588333295037349
+Lista Ligada,50000,no_existente,7,3576.245999817426
+Árbol Binario (BST),50000,no_existente,7,4.194666786740223
+Árbol B+,50000,no_existente,7,6.307999913891156
+Lista Ligada,50000,existente,8,1527.9903332702816
+Árbol Binario (BST),50000,existente,8,2.919999727358421
+Árbol B+,50000,existente,8,5.940666887909174
+Lista Ligada,50000,no_existente,8,3458.9663334190845
+Árbol Binario (BST),50000,no_existente,8,3.379666789745291
+Árbol B+,50000,no_existente,8,5.884333125626047
+Lista Ligada,50000,existente,9,1562.0003334091357
+Árbol Binario (BST),50000,existente,9,3.9493335255732145
+Árbol B+,50000,existente,9,6.558999884873629
+Lista Ligada,50000,no_existente,9,3453.414333440984
+Árbol Binario (BST),50000,no_existente,9,3.0603333531568446
+Árbol B+,50000,no_existente,9,6.073000064740579
+Lista Ligada,100000,existente,0,3294.07766694203
+Árbol Binario (BST),100000,existente,0,2.4866669749220214
+Árbol B+,100000,existente,0,8.123333488280574
+Lista Ligada,100000,no_existente,0,6048.229666581999
+Árbol Binario (BST),100000,no_existente,0,3.5549999059488377
+Árbol B+,100000,no_existente,0,5.656333329776923
+Lista Ligada,100000,existente,1,2995.7713330319775
+Árbol Binario (BST),100000,existente,1,2.5186664424836636
+Árbol B+,100000,existente,1,7.608000111455719
+Lista Ligada,100000,no_existente,1,5743.958666377391
+Árbol Binario (BST),100000,no_existente,1,3.3746667516728244
+Árbol B+,100000,no_existente,1,7.668333128094672
+Lista Ligada,100000,existente,2,3230.1259999318668
+Árbol Binario (BST),100000,existente,2,4.432666658734282
+Árbol B+,100000,existente,2,6.973666604608297
+Lista Ligada,100000,no_existente,2,6821.712666423991
+Árbol Binario (BST),100000,no_existente,2,3.181666446228822
+Árbol B+,100000,no_existente,2,6.232333447163304
+Lista Ligada,100000,existente,3,1803.1583334474512
+Árbol Binario (BST),100000,existente,3,2.400666708126664
+Árbol B+,100000,existente,3,9.45666649689277
+Lista Ligada,100000,no_existente,3,3930.539666519811
+Árbol Binario (BST),100000,no_existente,3,2.3503333795815706
+Árbol B+,100000,no_existente,3,5.704999978964527
+Lista Ligada,100000,existente,4,1728.7306666063766
+Árbol Binario (BST),100000,existente,4,2.2799998987466097
+Árbol B+,100000,existente,4,6.2813334322224055
+Lista Ligada,100000,no_existente,4,3631.8133332921816
+Árbol Binario (BST),100000,no_existente,4,2.7916669690360627
+Árbol B+,100000,no_existente,4,5.497333283225695
+Lista Ligada,100000,existente,5,2994.393666740507
+Árbol Binario (BST),100000,existente,5,3.8699999762078128
+Árbol B+,100000,existente,5,7.330333658804497
+Lista Ligada,100000,no_existente,5,6921.283000071223
+Árbol Binario (BST),100000,no_existente,5,4.027666679273049
+Árbol B+,100000,no_existente,5,7.347333012148738
+Lista Ligada,100000,existente,6,3808.037999939794
+Árbol Binario (BST),100000,existente,6,4.387333368261656
+Árbol B+,100000,existente,6,6.73700007610023
+Lista Ligada,100000,no_existente,6,7058.620666697
+Árbol Binario (BST),100000,no_existente,6,4.623999896769722
+Árbol B+,100000,no_existente,6,6.487333060552677
+Lista Ligada,100000,existente,7,3406.6546665659794
+Árbol Binario (BST),100000,existente,7,4.143666786452134
+Árbol B+,100000,existente,7,9.273333319773275
+Lista Ligada,100000,no_existente,7,7025.7299998775125
+Árbol Binario (BST),100000,no_existente,7,2.599333335335056
+Árbol B+,100000,no_existente,7,7.727666525170206
+Lista Ligada,100000,existente,8,2312.480666441843
+Árbol Binario (BST),100000,existente,8,4.20733354985714
+Árbol B+,100000,existente,8,5.813666696970662
+Lista Ligada,100000,no_existente,8,4609.584666710967
+Árbol Binario (BST),100000,no_existente,8,3.2029999420046806
+Árbol B+,100000,no_existente,8,7.35033342304329
+Lista Ligada,100000,existente,9,2276.2080002576113
+Árbol Binario (BST),100000,existente,9,2.3599997318039336
+Árbol B+,100000,existente,9,6.600000197067857
+Lista Ligada,100000,no_existente,9,4678.932666623345
+Árbol Binario (BST),100000,no_existente,9,3.241333567226927
+Árbol B+,100000,no_existente,9,6.6536664962768555

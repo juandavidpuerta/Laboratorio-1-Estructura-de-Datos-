@@ -1,0 +1,6 @@
+Sistema operativo: Windows-11-10.0.26200-SP0
+Procesador: Intel64 Family 6 Model 186 Stepping 2, GenuineIntel
+Núcleos lógicos: 12
+Python: 3.13.7 (CPython)
+matplotlib: 3.10.7
+RAM total: (completar a mano)
