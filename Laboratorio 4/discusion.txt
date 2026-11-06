@@ -1,0 +1,21 @@
+DISCUSION DE RESULTADOS (generada con los datos de esta corrida)
+
+Pregunta: el Quadtree empieza a ser mas rapido que fuerza bruta desde n = 7 puntos (primer tamano medido desde el cual gana en todos los tamanos siguientes).
+  El cruce esta entre n = 6 y n = 7; los tamanos intermedios no se midieron.
+
+Aceleracion (tiempo bruta / tiempo arbol) y puntos revisados por consulta:
+  n =       2:    0.7x   (arbol revisa      2.0 puntos, bruta revisa 2)
+  n =      10:    1.1x   (arbol revisa      3.1 puntos, bruta revisa 10)
+  n =     100:    4.2x   (arbol revisa      4.7 puntos, bruta revisa 100)
+  n =   1,000:   13.5x   (arbol revisa     19.4 puntos, bruta revisa 1,000)
+  n =  10,000:   19.2x   (arbol revisa    122.2 puntos, bruta revisa 10,000)
+  n =  50,000:   21.0x   (arbol revisa    535.5 puntos, bruta revisa 50,000)
+
+Construccion: con n = 50,000 el arbol tarda 113.1 ms en construirse; se paga solo despues de unas 16 consultas (construccion / ahorro por consulta).
+
+Como interpretar:
+  - Con n <= capacidad (4) el arbol es una sola hoja: hace lo mismo que fuerza bruta mas el costo de las llamadas y de la poda, por eso pierde con n muy pequeno.
+  - Al crecer n el arbol descarta casi todas las hojas: revisa muchos menos puntos (grafica an_revisados.png) y el tiempo por consulta crece mucho mas despacio que en bruta.
+  - La ciudad es fija (10 km x 10 km) y el radio es fijo (500 m): al aumentar n sube la densidad, asi que el numero de puntos dentro del circulo tambien crece y el tiempo del arbol sigue creciendo (de forma lineal pero con pendiente mucho menor). Con densidad constante el arbol crece como O(log n + k), con k = resultados.
+  - El cruce depende del lenguaje, la maquina, la capacidad de hoja y la distribucion; el valor exacto no es universal, la tendencia si.
+  - Las barras de error no se muestran; se uso la mediana de 300 consultas por tamano. Una sola corrida: los tiempos varian algo entre ejecuciones.

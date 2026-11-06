@@ -1,0 +1,19 @@
+RESUMEN DE LAS PRUEBAS
+----------------------
+Pruebas unitarias ejecutadas : 31
+Pruebas que pasaron          : 31
+Pruebas que fallaron         : 0
+Consultas de radio comparadas con fuerza bruta    : 311
+Consultas de vecino comparadas con fuerza bruta   : 300
+Puntos insertados en los arboles de prueba        : 43,700
+
+Que se comprobo:
+  - Regla de bordes: contiene() e indice_hijo() usan el mismo criterio.
+  - Insercion: no se pierden ni se duplican puntos (contar() == puntos insertados),
+    tambien con puntos identicos, un solo punto y puntos sobre los bordes.
+  - La profundidad maxima corta la recursion con puntos identicos.
+  - Un punto fuera de la region se rechaza con ValueError.
+  - Busqueda por radio y vecino mas cercano dan EXACTAMENTE lo mismo que fuerza
+    bruta con coordenadas continuas, coordenadas enteras (bordes y empates),
+    centros en esquinas y fuera de la ciudad, radio 0 y radio enorme.
+  - El vecino mas cercano puede estar en otro cuadrante que el de q.

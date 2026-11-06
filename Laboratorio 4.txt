@@ -1,0 +1,37 @@
+Laboratorio 4
+
+Problema
+Eres parte de un equipo que desarrolla un sistema de logística de entregas en una ciudad.
+Tienes coordenadas (x,y) de 10.000 puntos de entrega (estos datos los puedes tomar de datos reales
+o generarlos, para este ejercicio los datos son estáticos, es decir, no cambian).
+
+Necesitas implementar un sistema que responda eficientemente preguntas como:
+* ¿que puntos de entrega estan a un radio de 500 metros de un punto dado? (tener en cuenta unidades)
+* ¿cual es el punto de entrega mas cercano a una ubicacion dada?
+
+Objetivo: Implementar un Arbol-Quadtree desde cero, y comparar con fuerza bruta.
+
+Micro-tareas para resolver el ejercicio:
+* Construir el arbol Quadtree (no se pueden usar arboles ya generados o librerias como scipy)
+* Implementar busqueda dentro de un radio (Range Search)
+* Vecinos (puntos encontrados dentro del radio) y encontrar los mas cercanos
+* Verificacion visual de radio y puntos encontrados dentro del radio.
+* Verificacion visual de los vecinos mas cercanos.
+Notas:
+* IMPORTANTE: trate de hacer el codigo para K-dimensiones, sino, puede ser solo para 2D
+* No se permiten soluciones completas de internet o vibe coding, sí se pueden apoyar de IA o internet
+* Se puede hacer preguntas
+
+Responder las siguientes preguntas en el analisis comparativo:
+* para que tamaño de datos el arbol-Quadtree comienza a ser mas rapido que "fuerza bruta"
+(no arboles, si listas, ...)?
+
+Forma de entrega. Repositorio github con la siguiente estructura:
+README.md
+Quadtreetree.py
+test.py (pruebas unitarias, visualizaciones y analisis de pruebas realizadas, incluir las graficas en el repositorio)
+analisis.py (metricas de rendimiento y discusion de resultados)
+
+Recuerden agendar la sustentacion en el calendly.
+
+Éxitos,
